@@ -1,0 +1,21 @@
+{
+  "production":
+  {
+    "host": "",
+    "name": "",
+    "user": "",
+    "password": ""
+  },
+  "db":
+  {
+    "host": "127.0.0.1",
+    "name": "tdd",
+    "user": "root",
+    "password": ""
+  },
+  "env": "dev",
+  "cookie": {
+    "key": "secret key",
+    "auth": "__auth_id"
+  }
+}
